@@ -41,7 +41,6 @@
    ![dashboard Page](https://github.com/Imaryan08/passport_login/blob/main/images/dashboard.png) -->
 
 
-Certainly! Here's the code for the README file:
 
 ```markdown
 # Passport Login
@@ -62,6 +61,8 @@ Passport Login is a web application that demonstrates user authentication using 
 - Passport.js
 - MongoDB
 - EJS (Embedded JavaScript) templating engine
+
+```
 
 ## Installation
 
@@ -90,7 +91,7 @@ Passport Login is a web application that demonstrates user authentication using 
 5. Start the application:
 
    ```shell
-   npm start
+   npm start or npm run dev
    ```
 
 6. Open your web browser and visit `http://localhost:5000` to access the application.
@@ -121,7 +122,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or want to reach out regarding this project, you can contact me via email at your-email@example.com.
+If you have any questions or want to reach out regarding this project, you can contact me via email at imaryan08@gmail.com.
+
 ```
 
-You can copy and paste the above code into a new README.md file in your project repository. Feel free to modify the content and add any additional sections or details as needed.
