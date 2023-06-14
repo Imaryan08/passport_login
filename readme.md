@@ -16,8 +16,8 @@
 
 ## Process to run this application
 
-    - open terminal
+    ### open terminal
       - npm install
       - npm run dev or npm start or npm run start
-    - open browser
-      - copy this link and open in any browser or you can [click here](localhost:5000)
+    ### open browser
+      - copy this link : `localhost:5000` and open in any browser
