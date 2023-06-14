@@ -25,4 +25,17 @@
 ## After running this application
 
 1. you are on the home page which will look like this
+
    ![Home Page](https://github.com/Imaryan08/passport_login/blob/main/images/homePage.png)
+
+2. Click on Register that will redirect you to this Register page
+
+   ![Register Page](https://github.com/Imaryan08/passport_login/blob/main/images/register.png)
+
+3. Click on Login with your credentials
+
+   ![Login Page](https://github.com/Imaryan08/passport_login/blob/main/images/login.png)
+
+4. Go to dashboard route if you are logged in that will look like this
+
+   ![dashboard Page](https://github.com/Imaryan08/passport_login/blob/main/images/dashboard.png)
