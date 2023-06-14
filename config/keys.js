@@ -1,4 +1,5 @@
+require("dotenv").config();
+
 module.exports = {
-  MongoURI:
-    "mongodb+srv://Imaryan08:Imaryan08@cluster0.fxnvfox.mongodb.net/?retryWrites=true&w=majority",
+  MongoURI: `mongodb+srv://Imaryan08:${process.env.mongopass}@cluster0.fxnvfox.mongodb.net/?retryWrites=true&w=majority`,
 };
