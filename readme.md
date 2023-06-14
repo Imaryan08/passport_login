@@ -16,8 +16,13 @@
 
 ## Process to run this application
 
-    ### open terminal
+    - open terminal
       - npm install
       - npm run dev or npm start or npm run start
-    ### open browser
+    - open browser
       - copy this link : `localhost:5000` and open in any browser
+
+## After running this application
+
+1. you are on the home page which will look like this
+   ![Home Page](https://github.com/Imaryan08/passport_login/blob/main/images/homePage.png)
